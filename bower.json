@@ -1,0 +1,23 @@
+{
+  "name": "pi-settings-angular",
+  "description": "",
+  "main": "gulpfile.js",
+  "authors": [
+    "Guilherme Cardoso"
+  ],
+  "license": "MIT",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-mocks": "~1.4.8",
+    "angular": "~1.4.8",
+    "underscore": "~1.8.3"
+  }
+}
